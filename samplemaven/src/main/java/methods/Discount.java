@@ -6,7 +6,7 @@ public class Discount {
 	public static void price(float a, float b)
 	{
 c = a+b;
-System.out.println(c);
+
 	}
 public static void check()
 {
